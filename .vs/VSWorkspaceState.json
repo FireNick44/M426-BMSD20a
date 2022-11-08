@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Aufgaben",
+    "\\Beispiele",
     "\\hello-csharp",
     "\\hello-csharp\\Calculator",
     "\\hello-csharp\\Calculator.Tests"
