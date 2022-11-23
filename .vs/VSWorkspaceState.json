@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Aufgaben",
+    "\\hello-csharp",
+    "\\hello-csharp\\Calculator"
   ],
+  "SelectedNode": "\\hello-csharp\\Calculator\\Calculator.cs",
   "PreviewInSolutionExplorer": false
 }
