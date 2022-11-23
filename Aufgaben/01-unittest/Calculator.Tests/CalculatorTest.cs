@@ -21,8 +21,11 @@ namespace Calculator.Tests
             Assert.Equal(expected, actual);
         }
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> a90bf9cbb1aa4c03254e7b2265efffaf68e0a82f
         [Fact]
         public void TestSubtractFourFromSixIsTwo()
         {
@@ -38,6 +41,7 @@ namespace Calculator.Tests
             // Then
             Assert.Equal(expected, actual);
         }
+<<<<<<< HEAD
 
 
 
@@ -93,3 +97,7 @@ namespace Calculator.Tests
         }
     }
 }
+=======
+    }
+}
+>>>>>>> a90bf9cbb1aa4c03254e7b2265efffaf68e0a82f

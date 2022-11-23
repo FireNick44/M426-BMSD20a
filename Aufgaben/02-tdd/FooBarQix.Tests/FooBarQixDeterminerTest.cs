@@ -4,6 +4,7 @@ namespace FooBarQix.Tests
 {
     public class FooBarQixDeterminerTest
     {
+<<<<<<< HEAD
         public void generalTest()
         {
             //Arrange
@@ -122,6 +123,11 @@ namespace FooBarQix.Tests
 
             //Assert
             Assert.Equal(expected, actual);
+=======
+        [Fact]
+        public void Test1()
+        {
+>>>>>>> a90bf9cbb1aa4c03254e7b2265efffaf68e0a82f
         }
     }
 }

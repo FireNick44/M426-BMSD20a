@@ -9,14 +9,20 @@ namespace Statistics.Tests
         [Fact]
         public void TestMeanOfTwoNumbers()
         {
+<<<<<<< HEAD
             List<int> numbers = new List<int> { 1 / 3 /, 3 / 2 /};
             double expected = 2 / 2,5 /;
+=======
+            List<int> numbers = new List<int> { 1, 3 };
+            double expected = 2;
+>>>>>>> a90bf9cbb1aa4c03254e7b2265efffaf68e0a82f
             Average average = new Average();
 
             double actual = average.Mean(numbers);
 
             Assert.Equal(expected, actual);
         }
+<<<<<<< HEAD
         [Fact]
         public void TestMeanOfFiveNumbers()
         {
@@ -50,3 +56,7 @@ namespace Statistics.Tests
         }
     }
 }
+=======
+    }
+}
+>>>>>>> a90bf9cbb1aa4c03254e7b2265efffaf68e0a82f

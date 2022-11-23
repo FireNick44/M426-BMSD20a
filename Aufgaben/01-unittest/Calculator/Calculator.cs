@@ -6,12 +6,19 @@ namespace Calculator
     {
         public int Add(int summandA, int summandB)
         {
+<<<<<<< HEAD
             return summandA + summandB;//+1
         }
+=======
+            return summandA + summandB;
+        }
+
+>>>>>>> a90bf9cbb1aa4c03254e7b2265efffaf68e0a82f
         public int Subtract(int minuend, int subtrahend)
         {
             return minuend - subtrahend;
         }
+<<<<<<< HEAD
         public int Multiply(int multiplientA, int multiplientB)
         {
             return multiplientA * multiplientB;
@@ -27,3 +34,7 @@ namespace Calculator
         }
     }
 }
+=======
+    }
+}
+>>>>>>> a90bf9cbb1aa4c03254e7b2265efffaf68e0a82f

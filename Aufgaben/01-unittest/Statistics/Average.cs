@@ -7,10 +7,13 @@ namespace Statistics
     {
         public double Mean(List<int> numbers)
         {
+<<<<<<< HEAD
             if (numbers.Count == 0)
             {
                 throw new ArgumentException();
             }
+=======
+>>>>>>> a90bf9cbb1aa4c03254e7b2265efffaf68e0a82f
             int sum = 0;
             double mean = 0.0;
 
@@ -18,6 +21,7 @@ namespace Statistics
             {
                 sum += number;
             }
+<<<<<<< HEAD
             mean = (double)sum / numbers.Count;
             return mean;
         }
@@ -37,3 +41,11 @@ namespace Statistics
         }
     }
 }
+=======
+
+            mean = (double)sum / numbers.Count;
+            return mean;
+        }
+    }
+}
+>>>>>>> a90bf9cbb1aa4c03254e7b2265efffaf68e0a82f

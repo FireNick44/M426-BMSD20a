@@ -2,6 +2,7 @@
 {
     public class FooBarQixDeterminer
     {
+<<<<<<< HEAD
         public string determine(double param)
         {
             string res = "";
@@ -23,5 +24,8 @@
             }
             return res;
         }
+=======
+
+>>>>>>> a90bf9cbb1aa4c03254e7b2265efffaf68e0a82f
     }
 }
