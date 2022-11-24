@@ -2,9 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\Aufgaben",
+    "\\Aufgaben\\03-clean-code",
+    "\\Aufgaben\\03-clean-code\\Tennis",
     "\\hello-csharp",
     "\\hello-csharp\\Calculator"
   ],
-  "SelectedNode": "\\hello-csharp\\Calculator\\Calculator.cs",
+  "SelectedNode": "\\Aufgaben\\03-clean-code\\Tennis\\TennisGame.cs",
   "PreviewInSolutionExplorer": false
 }
